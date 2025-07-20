@@ -64,7 +64,7 @@ Include seat availability tracking.
 ## 🙋‍♀️ Author
 Maaria Khan
 Final Year Computer Science Engineering Student
-🔗www.linkedin.com/in/maariak-cs
+🔗www.linkedin.com/in/maariakh-cs
 
 
 
